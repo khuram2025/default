@@ -1,0 +1,12 @@
+btn-soft-secondary {
+  --vz-btn-color: #3577f1;
+  --vz-btn-bg: rgba(53, 119, 241, 0.1);
+  --vz-btn-border-color: transparent;
+  --vz-btn-hover-color: #fff;
+  --vz-btn-hover-bg: #306bd9;
+  --vz-btn-hover-border-color: transparent;
+  --vz-btn-focus-shadow-rgb: 53, 119, 241;
+  --vz-btn-active-color: var(--vz-btn-hover-color);
+  --vz-btn-active-bg: #2a5fc1;
+  --vz-btn-active-border-color: transparent;
+}
